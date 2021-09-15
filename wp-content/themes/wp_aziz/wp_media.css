@@ -1,0 +1,23 @@
+@media(max-width:767px){
+
+	.main-sidebar{
+		display: none;
+	}
+	.navbar-collapse{
+	flex-basis: 100%;
+  
+    flex-grow: 1;
+  
+    align-items: center;
+    overflow: visibl;
+    z-index: 11;
+    background-color:#CCC;
+	;
+}
+}
+@media(max-width: 991px){
+	.main-sidebar{
+		display: none;
+		
+	}
+}
